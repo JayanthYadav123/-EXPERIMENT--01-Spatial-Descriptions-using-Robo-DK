@@ -141,19 +141,10 @@ def Prog1():
   # End of main program  
 ```
 ### Component Tree : 
-
 ![image](https://user-images.githubusercontent.com/94836154/176921239-7a3f6038-be46-4db9-8811-c892bbc6c879.png)
-
-
-
 ### COORDINATES OF THE MOVEMENTS: 
-
 ![image](https://user-images.githubusercontent.com/94836154/176921315-ce2a6cd8-b4e6-4f2a-b873-18248d4554c6.png)
 ![image](https://user-images.githubusercontent.com/94836154/176921360-d3b3874c-1116-4ae8-bc1a-06dac2e36cc0.png)
-
-
-
-
 ### RESULTS :
 The Robot DK software for spatial descriptions has been understood clearly.
 
