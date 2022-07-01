@@ -1,10 +1,13 @@
-## -EXPERIMENT--01-Spatial-Descriptions-using-Robo-DK
+## -EXPERIMENT--01-
+Spatial-Descriptions-using-Robo-DK
 
-### AIM: To understand the Robot DK software for spatial descriptions 
+### AIM:
+To understand the Robot DK software for spatial descriptions 
 
-### SOFTWARE REQUIRED : ROBO DK Version 5.4
+### SOFTWARE REQUIRED :
+ROBO DK Version 5.4
 
- ## THEORY
+ ## THEORY:
  
  ###  New project
 Follow these steps to create a new RoboDK project (RDK station):
@@ -100,6 +103,9 @@ In this example we used the following robot joint coordinates [0,0,200,180,0,180
 
 
 ### PROGRAM :
+Name : G.Jayanth.
+
+Reg no : 212221230030.
 
 ```
 def Prog1():
@@ -134,15 +140,23 @@ def Prog1():
   # Not defined
   # End of main program  
 ```
+### Component Tree : 
+
+![image](https://user-images.githubusercontent.com/94836154/176921239-7a3f6038-be46-4db9-8811-c892bbc6c879.png)
+
 
 
 ### COORDINATES OF THE MOVEMENTS: 
 
+![image](https://user-images.githubusercontent.com/94836154/176921315-ce2a6cd8-b4e6-4f2a-b873-18248d4554c6.png)
+![image](https://user-images.githubusercontent.com/94836154/176921360-d3b3874c-1116-4ae8-bc1a-06dac2e36cc0.png)
 
 
 
 
-### SIMULATION RESULTS :
+### RESULTS :
+The Robot DK software for spatial descriptions has been understood clearly.
+
 
 
 
